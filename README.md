@@ -21,3 +21,35 @@
 
 - Ejercicio 7
   ![Ejercicio 7](Imagenes/imagen_7.png)
+
+## LISTA DE EJERCICIOS 2:
+
+- Ejercicio 8
+  ![Ejercicio 7](Imagenes/imagen_8.png)
+
+- Ejercicio 9
+  ![Ejercicio 7](Imagenes/imagen_9.png)
+
+- Ejercicio 10
+  ![Ejercicio 7](Imagenes/imagen_10.png)
+
+- Ejercicio 11
+  ![Ejercicio 7](Imagenes/imagen_11.png)
+
+- Ejercicio 12
+  ![Ejercicio 7](Imagenes/imagen_12.png)
+
+- Ejercicio 13
+  ![Ejercicio 7](Imagenes/imagen_13.png)
+
+- Ejercicio 14
+  ![Ejercicio 7](Imagenes/imagen_14.png)
+
+- Ejercicio 15
+  ![Ejercicio 7](Imagenes/imagen_15.png)
+
+- Ejercicio 16
+  ![Ejercicio 7](Imagenes/imagen_16.png)
+
+- Ejercicio 17
+  ![Ejercicio 7](Imagenes/imagen_17.png)
